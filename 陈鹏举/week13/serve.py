@@ -1,7 +1,7 @@
 """
 FastAPI HTTP 服务 — 带 SSE 事件流的可视化后端 + 技能系统
 """
-# 前面所有 import 保持不变，仅增加技能导入
+# 增加技能导入
 import os
 import sys
 import json
